@@ -5,3 +5,7 @@
 sINCRONIZAM - APASAM pe bransha - si cere sa notam despre schimbarile care leam facut - apoi apasam pe bifa - poate sa intreaba parola si loghinul  pe githab si pentru a sincroniza pe ghithai, jos in stinga este un cerculet cu sageti, si apasam - poate sa ceara lcohinul si parola.
 
 
+Pentru a schimba utilizatorul in VSCode, trebuie sa scrie in   programa descarcata GIT,  comanda :    git config --global credential.username "new_username"
+
+new_username   -   este   numele repositoriului ( coliab13   sau  personal-portfolio-web)
+
